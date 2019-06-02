@@ -1,0 +1,8 @@
+Origin: Watking01
+Label: sardesai
+Suite: stable
+Version: 1.0.0
+Codename: sardesai
+Architectures: iphoneos-arm
+Components: main
+Description: Aakash's repo
