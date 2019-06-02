@@ -1,0 +1,254 @@
+Package: com.alexzielenski.zeppelin
+Name: Zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Theme your carrier logo!
+Maintainer: Aakash Sardesai
+Author: Alex Zielenski 
+Section: tweaks
+Depends: 
+Filename: debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.hackyouriphone.libertylite
+Name: liberty lite
+Version: 1.0
+Architecture: iphoneos-arm
+Description: bypass jailbreak detection on some apps
+Maintainer: Aakash Sardesai
+Author: Hackyouriphone
+Section: tweaks
+Depends: 
+Filename: debs/com.hackyouriphone.libertylite_0.2.10_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.Joka.GunsofBoomFreeHack
+Name: guns of boom free hack
+Version: 1.0
+Architecture: iphoneos-arm
+Description: cheats for guns of boom game
+Maintainer: Aakash Sardesai
+Author: Joka
+Section: cheats
+Depends: 
+Filename: debs/com.Joka.GunsofBoomFreeHack_1.0.0_iphoneos-arm (6).deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.Joka.iOSGodsiAPCracker
+Name: Ios gods iAP cracker
+Version: 1.0
+Architecture: iphoneos-arm
+Description: pwns in app purchases better than localiapstore
+Maintainer: Aakash Sardesai
+Author: Joka
+Section: tweaks
+Depends: 
+Filename: debs/com.Joka.iOSGodsiAPCracker_1.0-2_iphoneos-arm (2).deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.Joka.PvZ2FreeHack
+Name: PvZ 2 cheats
+Version: 1.0
+Architecture: iphoneos-arm
+Description: cheats for PvZ 2
+Maintainer: Aakash Sardesai
+Author: Joka
+Section: cheats
+Depends: 
+Filename: debs/com.Joka.PvZ2FreeHack_1.0.0_iphoneos-arm%20(2).deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.Joka.RollingSkyFreeHack
+Name: rolling sky cheats
+Version: 1.0
+Architecture: iphoneos-arm
+Description: cheats for rolling sky
+Maintainer: Aakash Sardesai
+Author: Joka
+Section: cheats
+Depends: 
+Filename: debs/com.Joka.RollingSkyFreeHack_2.1.0_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.laxus.kingofthieves
+Name: king of thieves cheats
+Version: 1.0
+Architecture: iphoneos-arm
+Description: cheats for king of thieves
+Maintainer: Aakash Sardesai
+Author: Laxus
+Section: cheats
+Depends: 
+Filename: debs/com.laxus.kingofthieves_2.32.2_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.matchstic.reprovision
+Name: reprovision
+Version: 1.0
+Architecture: iphoneos-arm
+Description: (re)sign apps from your idevice
+Maintainer: Aakash Sardesai
+Author: matchstic
+Section: utilities
+Depends: 
+Filename: debs/com.matchstic.reprovision_0.4.2_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.modmyi.supermariosbroszeppelin
+Name: SMB zeppelin logos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: mario bros logos for use with zeppelin
+Maintainer: Aakash Sardesai
+Author: modmyi
+Section: themes
+Depends: 
+Filename: debs/com.modmyi.supermariosbroszeppelin_1.0_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.spark.snowboard
+Name: snowboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: use themes on your device
+Maintainer: Aakash Sardesai
+Author: sparkdev
+Section: utilities
+Depends: 
+Filename: debs/com.spark.snowboard_1.1.7_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.synnyg.floatydock
+Name: floaty dock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ipad dock power for all
+Maintainer: Aakash Sardesai
+Author: synnyg
+Section: tweaks
+Depends: 
+Filename: debs/com.synnyg.floatydock_1.5_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: cydia.net.angelxwind.appsyncunified
+Name: app sync unified
+Version: 1.0
+Architecture: iphoneos-arm
+Description: install and run unsigned .ipa files on your idevice
+Maintainer: Aakash Sardesai
+Author: Karen
+Section: tweaks
+Depends: 
+Filename: debs/cydia.net.angelxwind.appsyncunified_32.0_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: iOSGods.com.AngryBirds2
+Name: cheats for angry birds 2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: cheats for angry birds 2
+Maintainer: Aakash Sardesai
+Author: iosgods.com
+Section: cheats
+Depends: 
+Filename: debs/iOSGods.com.AngryBirds2_2.7.1-2_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: iOSGods.com.AngryBirdsEvolution
+Name: cheats for angry birds evolution
+Version: 1.0
+Architecture: iphoneos-arm
+Description: cheats for angry birds evolution
+Maintainer: Aakash Sardesai
+Author: iosgods.com
+Section: cheats
+Depends: 
+Filename: debs/iOSGods.com.AngryBirdsEvolution_2.1.3_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: iOSGods.com.PUBGMOBILEFREE
+Name: PUBG mobile cheats
+Version: 1.0
+Architecture: iphoneos-arm
+Description: cheats for PUBG mobile
+Maintainer: Aakash Sardesai
+Author: iosgods.com
+Section: cheats
+Depends: 
+Filename: debs/iOSGods.com.PUBGMOBILEFREE_0.6.1_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: org.cydia.kiimo.betterjb
+Name: betterjb
+Version: 1.0
+Architecture: iphoneos-arm
+Description: fixes battery drainage and overheating problems on electra/unc0ver jailbreaks
+Maintainer: Aakash Sardesai
+Author: pulandres
+Section: tweaks
+Depends: 
+Filename: debs/org.cydia.kiimo.betterjb_1.0_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: us.diatr.sillyo
+Name: sileo compatablity layer
+Version: 1.0
+Architecture: iphoneos-arm
+Description: allows you to install sileo from coolstar's repo on unc0ver jailbreak
+Maintainer: Aakash Sardesai
+Author: diatrus
+Section: utilities
+Depends: 
+Filename: debs/us.diatr.sillyo_1.4_iphoneos-arm.deb
+Size: 59498
+MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
+SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
+SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
