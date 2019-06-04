@@ -1,6 +1,6 @@
 Package: com.alexzielenski.zeppelin
 Name: Zeppelin
-Version: 1.0
+Version: 2.1.0-12
 Architecture: iphoneos-arm
 Description: Theme your carrier logo!
 Maintainer: Aakash Sardesai
@@ -15,7 +15,7 @@ SHA256: e786a1e78b97abe1690388fe1795c9b32f1256428cac6a49bd641f956cee9113
 
 Package: com.hackyouriphone.libertylite
 Name: liberty lite
-Version: 1.0
+Version: 0.2.10
 Architecture: iphoneos-arm
 Description: bypass jailbreak detection on some apps
 Maintainer: Aakash Sardesai
@@ -45,7 +45,7 @@ SHA256: 7f3051d7537044570fb6153388e94f73f7e68e782aa1e1c34d1c5cc0cd9736f3
 
 Package: com.Joka.iOSGodsiAPCracker
 Name: Ios gods iAP cracker
-Version: 1.0
+Version: 1.0-2
 Architecture: iphoneos-arm
 Description: pwns in app purchases better than localiapstore
 Maintainer: Aakash Sardesai
@@ -75,7 +75,7 @@ SHA256: 1bb522aa216aa1c39e769d8f1973a733036d9bdfcb1097a79812308eabe823e8
 
 Package: com.Joka.RollingSkyFreeHack
 Name: rolling sky cheats
-Version: 1.0
+Version: 2.1.0
 Architecture: iphoneos-arm
 Description: cheats for rolling sky
 Maintainer: Aakash Sardesai
@@ -90,7 +90,7 @@ SHA256: 4e40a4f66275bfd9c8eb82c95a79251a4ec5c5f7103acd34ee358810382d09ad
 
 Package: com.laxus.kingofthieves
 Name: king of thieves cheats
-Version: 1.0
+Version: 2.32.2
 Architecture: iphoneos-arm
 Description: cheats for king of thieves
 Maintainer: Aakash Sardesai
@@ -105,7 +105,7 @@ SHA256: fe74e0056b9a3d36120410559034813ad0bfe01166f53a620b08af281e543d74
 
 Package: com.matchstic.reprovision
 Name: reprovision
-Version: 1.0
+Version: 0.4.2
 Architecture: iphoneos-arm
 Description: (re)sign apps from your idevice
 Maintainer: Aakash Sardesai
@@ -135,7 +135,7 @@ SHA256: f461e99bd3534c037f8783defd01d25803de715b3cbb4d8097e7e17a55e57d4d
 
 Package: com.spark.snowboard
 Name: snowboard
-Version: 1.0
+Version: 1.1.7
 Architecture: iphoneos-arm
 Description: use themes on your device
 Maintainer: Aakash Sardesai
@@ -150,7 +150,7 @@ SHA256: eedd421f56a6e6d3670107b8a68ead333844e49337ccdb7247b3f85c4eaf2a79
 
 Package: com.synnyg.floatydock
 Name: floaty dock
-Version: 1.0
+Version: 1.5
 Architecture: iphoneos-arm
 Description: ipad dock power for all
 Maintainer: Aakash Sardesai
@@ -165,7 +165,7 @@ SHA256: 6bd905a786d0cf8e8b3fd59f2f8842538c3184730530bdd2b103032c8d445d23
 
 Package: cydia.net.angelxwind.appsyncunified
 Name: app sync unified
-Version: 1.0
+Version: 32.0
 Architecture: iphoneos-arm
 Description: install and run unsigned .ipa files on your idevice
 Maintainer: Aakash Sardesai
@@ -180,7 +180,7 @@ SHA256: f7915a52184d73b5bf0d712a2ad4021b26de8f6f35a492954b61fb7fedd5e80b
 
 Package: iOSGods.com.AngryBirds2
 Name: cheats for angry birds 2
-Version: 1.0
+Version: 2.7.1-2
 Architecture: iphoneos-arm
 Description: cheats for angry birds 2
 Maintainer: Aakash Sardesai
@@ -195,7 +195,7 @@ SHA256: 86ae6c109340e12c1cf6ac65e635d52939e0772a4b744802c49122886344b958
 
 Package: iOSGods.com.AngryBirdsEvolution
 Name: cheats for angry birds evolution
-Version: 1.0
+Version: 2.1.3
 Architecture: iphoneos-arm
 Description: cheats for angry birds evolution
 Maintainer: Aakash Sardesai
@@ -210,7 +210,7 @@ SHA256: a2e5ff4356aea4cbf7550a4141697fb88817273026b1ad6df227dac2ad9fda22
 
 Package: iOSGods.com.PUBGMOBILEFREE
 Name: PUBG mobile cheats
-Version: 1.0
+Version: 0.6.1
 Architecture: iphoneos-arm
 Description: cheats for PUBG mobile
 Maintainer: Aakash Sardesai
@@ -240,7 +240,7 @@ SHA256: 0578608155072412b7958679955aba19567bd8abe5689faf56e459b4c1850017
 
 Package: us.diatr.sillyo
 Name: sileo compatablity layer
-Version: 1.0
+Version: 1.4
 Architecture: iphoneos-arm
 Description: allows you to install sileo from coolstar's repo on unc0ver jailbreak
 Maintainer: Aakash Sardesai
