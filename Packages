@@ -83,10 +83,10 @@ Author: Joka
 Section: cheats
 Depends: 
 Filename: debs/com.Joka.RollingSkyFreeHack_2.1.0_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 996492
+MD5sum: 2b265a8675bb2f7b0b369ba07add4595
+SHA1: 9be4b0baf878d6045be51fdaaf03c24e419e1655
+SHA256: 4e40a4f66275bfd9c8eb82c95a79251a4ec5c5f7103acd34ee358810382d09ad
 
 Package: com.laxus.kingofthieves
 Name: king of thieves cheats
@@ -98,10 +98,10 @@ Author: Laxus
 Section: cheats
 Depends: 
 Filename: debs/com.laxus.kingofthieves_2.32.2_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 990890
+MD5sum: f1e6921f385c471048239863b326fa59
+SHA1: f7e9a5dd4919ed0d88482e6f1faa3d8b942f6499
+SHA256: fe74e0056b9a3d36120410559034813ad0bfe01166f53a620b08af281e543d74
 
 Package: com.matchstic.reprovision
 Name: reprovision
@@ -114,9 +114,9 @@ Section: utilities
 Depends: 
 Filename: debs/com.matchstic.reprovision_0.4.2_iphoneos-arm.deb
 Size: 10573694
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+MD5sum: e01d764b70d8ad1a9cf35eae944962d4
+SHA1: 684dfff90782e30e1499abda4c2c8af5facd3bb2
+SHA256: 27d05d240aca105eb3bfaadacc0b00199733053d62bd6d9c469fdb3e808347dc
 
 Package: com.modmyi.supermariosbroszeppelin
 Name: SMB zeppelin logos
@@ -128,10 +128,10 @@ Author: modmyi
 Section: themes
 Depends: 
 Filename: debs/com.modmyi.supermariosbroszeppelin_1.0_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 16262
+MD5sum: f4ceb9537e5dc4592de2812d00501250
+SHA1: 0f2a9c984e7ba932e1e58dc9a558776e3897b5d0
+SHA256: f461e99bd3534c037f8783defd01d25803de715b3cbb4d8097e7e17a55e57d4d
 
 Package: com.spark.snowboard
 Name: snowboard
@@ -143,10 +143,10 @@ Author: sparkdev
 Section: utilities
 Depends: 
 Filename: debs/com.spark.snowboard_1.1.7_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 446594
+MD5sum: e6c62c15fa51c33a2c9b8a94ec71a108
+SHA1: fd67de0dcaa2c90d0058f4200b3af904c0353af1
+SHA256: eedd421f56a6e6d3670107b8a68ead333844e49337ccdb7247b3f85c4eaf2a79
 
 Package: com.synnyg.floatydock
 Name: floaty dock
@@ -158,10 +158,10 @@ Author: synnyg
 Section: tweaks
 Depends: 
 Filename: debs/com.synnyg.floatydock_1.5_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 70024
+MD5sum: db13005a1d18ce08fd0eb0383072c1ff
+SHA1: 8f2d226db7d59921cafe3ab350fb788e572f493f
+SHA256: 6bd905a786d0cf8e8b3fd59f2f8842538c3184730530bdd2b103032c8d445d23
 
 Package: cydia.net.angelxwind.appsyncunified
 Name: app sync unified
@@ -174,9 +174,9 @@ Section: tweaks
 Depends: 
 Filename: debs/cydia.net.angelxwind.appsyncunified_32.0_iphoneos-arm.deb
 Size: 37854
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+MD5sum: 0e1d80a368485534bee6841779cbdd7f
+SHA1: 43d0059d4cc8827cff65f55e24a14e1c74812f65
+SHA256: f7915a52184d73b5bf0d712a2ad4021b26de8f6f35a492954b61fb7fedd5e80b
 
 Package: iOSGods.com.AngryBirds2
 Name: cheats for angry birds 2
@@ -188,10 +188,10 @@ Author: iosgods.com
 Section: cheats
 Depends: 
 Filename: debs/iOSGods.com.AngryBirds2_2.7.1-2_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 10019762
+MD5sum: 5a5a1c729b8d825b3ddd449c08c79ece
+SHA1: 00287d689e9f218faf3654cd3e5cba7a8008b7c2
+SHA256: 86ae6c109340e12c1cf6ac65e635d52939e0772a4b744802c49122886344b958
 
 Package: iOSGods.com.AngryBirdsEvolution
 Name: cheats for angry birds evolution
@@ -203,10 +203,10 @@ Author: iosgods.com
 Section: cheats
 Depends: 
 Filename: debs/iOSGods.com.AngryBirdsEvolution_2.1.3_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 993838
+MD5sum: cc18a3cc29eabdc7b2b6b6b0f87147ac
+SHA1: 222c7f5ba8dc86de1c0e6b103dd311b89f351bcf
+SHA256: a2e5ff4356aea4cbf7550a4141697fb88817273026b1ad6df227dac2ad9fda22
 
 Package: iOSGods.com.PUBGMOBILEFREE
 Name: PUBG mobile cheats
@@ -218,10 +218,10 @@ Author: iosgods.com
 Section: cheats
 Depends: 
 Filename: debs/iOSGods.com.PUBGMOBILEFREE_0.6.1_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 1837218
+MD5sum: 35c31921ca4b99f156c6d530e0897785
+SHA1: b11237d75916b643056cd952d9f045bc5017d59f
+SHA256: cb369f2415cfb6edc0007c00b4fcf4082d5dfdf1c4065c29066b5c47463702c7
 
 Package: org.cydia.kiimo.betterjb
 Name: betterjb
@@ -233,10 +233,10 @@ Author: pulandres
 Section: tweaks
 Depends: 
 Filename: debs/org.cydia.kiimo.betterjb_1.0_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 78834
+MD5sum: 0e49eea1e1a7e9c5a3219afa9a4eca62
+SHA1: 36a1aad4e902976400914edb7c8a4bda7a196cd9
+SHA256: 0578608155072412b7958679955aba19567bd8abe5689faf56e459b4c1850017
 
 Package: us.diatr.sillyo
 Name: sileo compatablity layer
@@ -248,7 +248,7 @@ Author: diatrus
 Section: utilities
 Depends: 
 Filename: debs/us.diatr.sillyo_1.4_iphoneos-arm.deb
-Size: 59498
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 1280
+MD5sum: abdbf6c04bf0487f5f6a6c4a9ff5a676
+SHA1: 1a6e158b9d8eeef3045fb4c632b6a12447c32893
+SHA256: 5ba3d23243eba8e41d24153665b367237ba9364769e304adf3e0a1804c1620d8
