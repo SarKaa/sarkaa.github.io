@@ -8,7 +8,10 @@ Author: Alex Zielenski
 Section: tweaks
 Depends: 
 Filename: debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm.deb
-Size: 59498
+Size: 954352
+MD5sum: b2306aca6cc4afe7ccc57210c98c0612
+SHA1: d890a6b07d87e73f6fe50ed09ddcbdd1fbb12684
+SHA256: e786a1e78b97abe1690388fe1795c9b32f1256428cac6a49bd641f956cee9113
 
 Package: com.hackyouriphone.libertylite
 Name: liberty lite
@@ -21,6 +24,9 @@ Section: tweaks
 Depends: 
 Filename: debs/com.hackyouriphone.libertylite_0.2.10_iphoneos-arm.deb
 Size: 46620
+MD5sum: 464cb92e91916314f615cf295b1132aa
+SHA1: be8e007078db49e0ed86e2a0ff3ad07547431482
+SHA256: 4900f2211864a3aa10fbc66d83fffd2d1d484fc912208f52a181b73a01c22224
 
 Package: com.Joka.GunsofBoomFreeHack
 Name: guns of boom free hack
@@ -33,9 +39,9 @@ Section: cheats
 Depends: 
 Filename: debs/com.Joka.GunsofBoomFreeHack_1.0.0_iphoneos-arm (6).deb
 Size: 2002586
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+MD5sum: bac9dab516c7abd8d9c609e6c4634998
+SHA1: 5d8a3ba00594ade971ddfd8783fc549f7841ea0c
+SHA256: 7f3051d7537044570fb6153388e94f73f7e68e782aa1e1c34d1c5cc0cd9736f3
 
 Package: com.Joka.iOSGodsiAPCracker
 Name: Ios gods iAP cracker
@@ -48,9 +54,9 @@ Section: tweaks
 Depends: 
 Filename: debs/com.Joka.iOSGodsiAPCracker_1.0-2_iphoneos-arm (2).deb
 Size: 62488
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+MD5sum: 4932c5023d5f9242eebb877861b52f10
+SHA1: fe848ff312489469384320ef8dc74204e499b662
+SHA256: febcb129b2e17c0a60b35cb87e31f23a8eef8a5179da5fc7dd2448d81afa128e
 
 Package: com.Joka.PvZ2FreeHack
 Name: PvZ 2 cheats
@@ -62,10 +68,10 @@ Author: Joka
 Section: cheats
 Depends: 
 Filename: debs/com.Joka.PvZ2FreeHack_1.0.0_iphoneos-arm%20(2).deb
-Size: 
-MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
-SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
-SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+Size: 993374
+MD5sum: b6af1de2960a9e901456580dcbba615f
+SHA1: 3552a8d4ebd9caec429bad0117173e7bfbfd247a
+SHA256: 1bb522aa216aa1c39e769d8f1973a733036d9bdfcb1097a79812308eabe823e8
 
 Package: com.Joka.RollingSkyFreeHack
 Name: rolling sky cheats
