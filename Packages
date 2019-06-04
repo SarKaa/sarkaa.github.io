@@ -223,7 +223,7 @@ MD5sum: 35c31921ca4b99f156c6d530e0897785
 SHA1: b11237d75916b643056cd952d9f045bc5017d59f
 SHA256: cb369f2415cfb6edc0007c00b4fcf4082d5dfdf1c4065c29066b5c47463702c7
 
-Package: org.cydia.kiimo.betterjb
+Package: com.pulandres.betterjb
 Name: betterjb
 Version: 1.0
 Architecture: iphoneos-arm
