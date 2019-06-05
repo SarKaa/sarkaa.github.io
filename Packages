@@ -19,7 +19,7 @@ Version: 0.2.10
 Architecture: iphoneos-arm
 Description: bypass jailbreak detection on some apps
 Maintainer: Aakash Sardesai
-Author: Hackyouriphone
+Author: ryleyangus
 Section: tweaks
 Depends: 
 Filename: debs/com.hackyouriphone.libertylite_0.2.10_iphoneos-arm.deb
