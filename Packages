@@ -13,7 +13,7 @@ MD5sum: b2306aca6cc4afe7ccc57210c98c0612
 SHA1: d890a6b07d87e73f6fe50ed09ddcbdd1fbb12684
 SHA256: e786a1e78b97abe1690388fe1795c9b32f1256428cac6a49bd641f956cee9113
 
-Package: com.hackyouriphone.libertylite
+Package: com.ryleyangus.libertylite
 Name: liberty lite
 Version: 0.2.10
 Architecture: iphoneos-arm
