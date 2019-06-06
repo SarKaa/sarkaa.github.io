@@ -135,18 +135,18 @@ SHA256: f461e99bd3534c037f8783defd01d25803de715b3cbb4d8097e7e17a55e57d4d
 
 Package: com.spark.snowboard
 Name: snowboard
-Version: 1.1.7
+Version: 1.1.8~beta1
 Architecture: iphoneos-arm
 Description: use themes on your device
 Maintainer: Aakash Sardesai
 Author: sparkdev
 Section: utilities
 Depends: 
-Filename: debs/com.spark.snowboard_1.1.7_iphoneos-arm.deb
-Size: 446594
-MD5sum: e6c62c15fa51c33a2c9b8a94ec71a108
-SHA1: fd67de0dcaa2c90d0058f4200b3af904c0353af1
-SHA256: eedd421f56a6e6d3670107b8a68ead333844e49337ccdb7247b3f85c4eaf2a79
+Filename: debs/com.spark.snowboard_1.2.8~Beta1_iphoneos-arm.deb
+Size: 737994
+MD5sum: 0f08a584f7ec2d87b12ad5abe524352f
+SHA1: 36a6274932b1f507239fea7b7a56e4cc4cd029c9
+SHA256: ebaa5242469a26943d7d6350ac38dbc20208d89e2d7b40daa13ff5d894f5386c
 
 Package: com.synnyg.floatydock
 Name: floaty dock
