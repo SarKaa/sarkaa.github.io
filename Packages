@@ -252,3 +252,18 @@ Size: 1280
 MD5sum: abdbf6c04bf0487f5f6a6c4a9ff5a676
 SHA1: 1a6e158b9d8eeef3045fb4c632b6a12447c32893
 SHA256: 5ba3d23243eba8e41d24153665b367237ba9364769e304adf3e0a1804c1620d8
+
+Package: com.sardesai.lotus
+Name: Lotus
+Version: 2.0 with some extras
+Architecture: iphoneos-arm
+Description: An amazing theme for your device, with some of my own additions
+Maintainer: Aakash Sardesai
+Author: unknown
+Section: themes
+Depends: 
+Filename: debs/com.macciti.lotus_1.0_iphoneos-arm.deb
+Size: 6909532
+MD5sum: fde19a41b5f19a00ae4403fb2080d192
+SHA1: e47ccd95086f281c4cd146868b13acb7184e76e7
+SHA256: 4715a66e607ba5bca50c093ab016dcccf8297288662f4338255e5a293d28a83c
