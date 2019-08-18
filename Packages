@@ -267,3 +267,19 @@ Size: 6909532
 MD5sum: fde19a41b5f19a00ae4403fb2080d192
 SHA1: e47ccd95086f281c4cd146868b13acb7184e76e7
 SHA256: 4715a66e607ba5bca50c093ab016dcccf8297288662f4338255e5a293d28a83c
+
+Package: com.sardesai.watking01setup
+Name: Watking01's perfect setup
+Version: 2019.08.18-14.59.09
+Author: Aakash Sardesai (Watking01)
+Maintainer: Aakash Sardesai (Watking01)
+Architecture: iphoneos-arm
+Section: Setup
+Description: Install Watking01's perfect jailbreak setup. REQUIRES INTERNET CONECTION. Created using Batchomatic v3.0.1
+Depends: 
+Filename: debs/com.sardesai.watking01setup.deb
+Size: 954352
+MD5sum: a7e1eaf686e7b0d9ba11e0d2c536d62d
+SHA1: 394bcae2523efd5a247c5ae8001151980e97f8a8
+SHA256: 9893be250defc441da257fd5cc1ab9092972fc00d2848b8a0a6164e9c444ccef
+
