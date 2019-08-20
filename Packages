@@ -272,7 +272,7 @@ Package: com.sardesai.watking01setup
 Name: Watking01's perfect setup
 Version: 2019.08.18-14.59.09
 Architecture: iphoneos-arm
-Description: Install Watking01's perfect jailbreak setup. REQUIRES INTERNET CONECTION. Created using Batchomatic v3.0.1
+Description: Install Watking01's perfect jailbreak setup. REQUIRES INTERNET CONECTION AND BATCHOMATIC TWEAK INSTALLED.
 Maintainer: Aakash Sardesai (Watking01)
 Author: Aakash Sardesai (Watking01)
 Section: Setup
