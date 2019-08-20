@@ -283,18 +283,4 @@ MD5sum: a7e1eaf686e7b0d9ba11e0d2c536d62d
 SHA1: 394bcae2523efd5a247c5ae8001151980e97f8a8
 SHA256: 9893be250defc441da257fd5cc1ab9092972fc00d2848b8a0a6164e9c444ccef
 
-Package: com.sardesai.repos
-Name: repos for updates
-Version: 2019.08.18-15.41.22
-Architecture: iphoneos-arm
-Description: configure all repos that are needed for upgrading tweaks
-Maintainer: Watking01
-Author: Watking01
-Section: Setup
-Depends: 
-Filename: debs/com.sardesai.repos
-Size: 1400
-MD5sum: 44b02f28c843c7f6ef75bc5dbdaaf7d0
-SHA1: 40ab0fc467f25b426215299ec9061ca5d01c86c2
-SHA256: 98e1caa73facd707185ce42ecbb84f61a4c449067d3c80b3ceb20399d519b0c0
 
