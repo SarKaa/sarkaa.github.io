@@ -1473,4 +1473,19 @@ Homepage: http://tukaani.org/lzma/
 Description: slower, but better, compression algorithm
 Name: XZ Utils
 
-
+Package: xyz.willy.zebra
+Name: Zebra (BETA)
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools
+Description: A Useful Package Manager
+Maintainer: Wilson Styres <wilson@styres.me>
+Author: Wilson Styres <wilson@styres.me>
+Section: Packaging
+Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
+Tag: purpose::x
+Version: 1.0~beta20
+Size: 18760
+Filename: debs/xyz.willy.zebra_1.0~beta20_iphoneos-arm.deb
+MD5sum: 68db618f9ff28dd616cb1706dbe5adb6
+SHA1: d6dcb1b02ad24bf93f9ff4294df2ec75f6aa0d00
+SHA256: f8a977bb0f0734c0270cc0c0c0187fc27b97a69d446f5536900525d3a54b5bfe
