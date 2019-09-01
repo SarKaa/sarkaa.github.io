@@ -253,21 +253,6 @@ MD5sum: abdbf6c04bf0487f5f6a6c4a9ff5a676
 SHA1: 1a6e158b9d8eeef3045fb4c632b6a12447c32893
 SHA256: 5ba3d23243eba8e41d24153665b367237ba9364769e304adf3e0a1804c1620d8
 
-Package: com.sardesai.watking01setup
-Name: Watking01's perfect setup
-Version: 2019.08.18-14.59.09
-Architecture: iphoneos-arm
-Description: Install Watking01's perfect jailbreak setup. REQUIRES INTERNET CONECTION AND BATCHOMATIC TWEAK INSTALLED.
-Maintainer: Aakash Sardesai (Watking01)
-Author: Aakash Sardesai (Watking01)
-Section: Setup
-Depends: 
-Filename: debs/com.sardesai.watking01setup.deb
-Size: 7503678
-MD5sum: a7e1eaf686e7b0d9ba11e0d2c536d62d
-SHA1: 394bcae2523efd5a247c5ae8001151980e97f8a8
-SHA256: 9893be250defc441da257fd5cc1ab9092972fc00d2848b8a0a6164e9c444ccef
-
 Package: apt-key
 Version: 1.4.9-1
 Architecture: iphoneos-arm
@@ -1489,3 +1474,34 @@ Filename: debs/xyz.willy.zebra_1.0~beta20_iphoneos-arm.deb
 MD5sum: 68db618f9ff28dd616cb1706dbe5adb6
 SHA1: d6dcb1b02ad24bf93f9ff4294df2ec75f6aa0d00
 SHA256: f8a977bb0f0734c0270cc0c0c0187fc27b97a69d446f5536900525d3a54b5bfe
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com>
+Maintainer: Capt Inc <captinc37@gmail.com>
+Depends: mobilesubstrate, gawk, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 3.2
+Size: 504
+Filename: debs/com.captinc.batchomatic.deb
+Size: 7503678
+MD5sum: 411c93150ebaf00f8b74b1dfaea191ea
+SHA1: 02d81bdb80435f02e5904aed7268e100f6260be5
+SHA256: b6aebfbe47d5f2246f283742a78b3e7ed5c26f424cf22e5fa73a5f8c7412521c
+
+Package: com.sardesai.watking01setup
+Name: Watking01's perfect setup
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Install Watking01's perfect jailbreak setup.
+Maintainer: Aakash Sardesai (Watking01)
+Author: Aakash Sardesai (Watking01)
+Section: Setup
+Depends: 
+Filename: debs/com.sardesai.watking01setup.deb
+Size: 73029398
+MD5sum: 1ef066c3830ce328f6c67f132899dfef
+SHA1: 6fe52cfd452b3c0fbe59c656c801c26f68303a1f
+SHA256: 98e260ff3d9fb010a200c95bf1c9d09a58b9dcb48cc74331c01696ba2d359740
