@@ -11,3 +11,5 @@ Excel (.xlsx)-https://bit.ly/2lB0wcp
 PNG image (.png)-https://bit.ly/2lXooHa
 JPEG image (.jpeg/jpg)-https://bit.ly/2kwxRVv
 Mp4 video (.mp4)-https://bit.ly/2lzAq9A
+Exe windows application(.exe)-https://bit.ly/2k5iMdu
+HTML website(.html)-https://bit.ly/2m152B8
