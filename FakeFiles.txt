@@ -5,6 +5,8 @@ If you need any other type of file to be made/corrupted, just ask me
 Don't worry about the files somehow opening, it is impossible for these files to ever open.
 When you try to open the files, the app they are meant to open in will open, but the file itself will not be visible
 The links are in this form, and not as a direct download button so I can see who is using them.
+If you wish to use the custom text character just copy and paste the following line:
+
 
 Powerpoint (.odp)- https://bit.ly/2kkvDsu
 Word (.odt)- https://bit.ly/2lGrNdd
