@@ -55,6 +55,6 @@
 	<key>PayloadUUID</key>
 	<string>E5E650BE-FE53-431D-9937-73866416DE0D</string>
 	<key>PayloadVersion</key>
-	<integer>1</integer>
+	<integer>2</integer>
 </dict>
 </plist>
