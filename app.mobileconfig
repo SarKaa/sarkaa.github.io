@@ -37,11 +37,11 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://watking01.github.io/repo/</string>
+			<string>https://watking01.github.io</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Installs SMT m0d straight from Watking01's server</string>
+	<string>Installs SMT m0d straight from SarKaa's server</string>
 	<key>PayloadDisplayName</key>
 	<string>SMT m0d</string>
 	<key>PayloadIdentifier</key>
