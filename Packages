@@ -1505,3 +1505,18 @@ Size: 73029398
 MD5sum: 1ef066c3830ce328f6c67f132899dfef
 SHA1: 6fe52cfd452b3c0fbe59c656c801c26f68303a1f
 SHA256: 98e260ff3d9fb010a200c95bf1c9d09a58b9dcb48cc74331c01696ba2d359740
+
+Package: com.sardesai.smt-m0d
+Name: SMT m0d
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: The SMT m0d app. This is just a web clip packaged in a .deb file, nothing fancy
+Maintainer: SarKaa (watking01)
+Author: SarKaa (watking01)
+Section: Utilities
+Depends: 
+Filename: debs/com.sardesai.smt-m0d_1.0.0_iphoneos-arm.deb
+Size: 176190
+MD5sum: af74a3611628213133ab103fc60ccef9
+SHA1: d943b098b38c25d3d554015817a9753874bdba66
+SHA256: 76e63b27cfd659addd090a54abe953970b0f23c72045cf2611cbcc75e8383aa0
