@@ -1535,3 +1535,19 @@ Size: 9322
 MD5sum: dbf7a1f9a0e4e29036eaee2e46db5fd3
 SHA1: c77a1480423eab6fb2d177c8743c3cc47af7551d
 SHA256: 2640bdb7da1ada7322421da17e87ab3830550bbaa38e15e4cfa3058a3e8d326e
+
+Package: com.sardesai.mariowallpaper
+Name: Mario wallpaper by SarKaa
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: wallpaperloader
+Author: SarKaa (Watking01)
+Section: Themes
+Description: An amazing wallpaper for use with wallpaperloader from skitty’s repo: https://skitty.xyz/repo/
+Filename: debs/com.sardesai.mariowallpaper_1.0_iphoneos-arm.deb
+Maintainer: SarKaa (Watking01)
+Size: 7815052
+MD5sum: 7667e228a77d943e77539411baf58bbe
+SHA1: b854b9bfdbb21be0fb701b8667cd650e13d185d6
+SHA256: b003dd76dd67c1ab3020d61128e4f477f72c7a8b3d0b0ee7bc747b3e28a6ec1d
+
