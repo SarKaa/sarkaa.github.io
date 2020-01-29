@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: Theme your carrier logo!
 Maintainer: Aakash Sardesai
 Author: Alex Zielenski 
-Section: tweaks
+Section: Tweaks
 Depends: 
 Filename: debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm.deb
 Size: 954352
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Description: bypass jailbreak detection on some apps
 Maintainer: Aakash Sardesai
 Author: ryleyangus
-Section: tweaks
+Section: Tweaks
 Depends: 
 Filename: debs/com.hackyouriphone.libertylite_0.2.10_iphoneos-arm.deb
 Size: 46620
@@ -50,7 +50,7 @@ Architecture: iphoneos-arm
 Description: pwns in app purchases better than localiapstore
 Maintainer: Aakash Sardesai
 Author: Joka
-Section: tweaks
+Section: Tweaks
 Depends: 
 Filename: debs/com.Joka.iOSGodsiAPCracker_1.0-2_iphoneos-arm (2).deb
 Size: 62488
@@ -110,7 +110,7 @@ Architecture: iphoneos-arm
 Description: (re)sign apps from your idevice
 Maintainer: Aakash Sardesai
 Author: matchstic
-Section: utilities
+Section: Utilities
 Depends: 
 Filename: debs/com.matchstic.reprovision_0.4.2_iphoneos-arm.deb
 Size: 10573694
@@ -125,7 +125,7 @@ Architecture: iphoneos-arm
 Description: mario bros logos for use with zeppelin
 Maintainer: Aakash Sardesai
 Author: modmyi
-Section: themes
+Section: Themes
 Depends: 
 Filename: debs/com.modmyi.supermariosbroszeppelin_1.0_iphoneos-arm.deb
 Size: 16262
@@ -140,7 +140,7 @@ Architecture: iphoneos-arm
 Description: use themes on your device
 Maintainer: Aakash Sardesai
 Author: sparkdev
-Section: utilities
+Section: Utilities
 Depends: 
 Filename: debs/com.spark.snowboard_1.2.8~Beta1_iphoneos-arm.deb
 Size: 737994
@@ -155,7 +155,7 @@ Architecture: iphoneos-arm
 Description: ipad dock power for all
 Maintainer: Aakash Sardesai
 Author: synnyg
-Section: tweaks
+Section: Tweaks
 Depends: 
 Filename: debs/com.synnyg.floatydock_1.5_iphoneos-arm.deb
 Size: 70024
@@ -170,7 +170,7 @@ Architecture: iphoneos-arm
 Description: install and run unsigned .ipa files on your idevice
 Maintainer: Aakash Sardesai
 Author: Karen
-Section: tweaks
+Section: Tweaks
 Depends: 
 Filename: debs/cydia.net.angelxwind.appsyncunified_32.0_iphoneos-arm.deb
 Size: 37854
@@ -230,7 +230,7 @@ Architecture: iphoneos-arm
 Description: fixes battery drainage and overheating problems on electra/unc0ver jailbreaks
 Maintainer: Aakash Sardesai
 Author: pulandres
-Section: tweaks
+Section: Tweaks
 Depends: 
 Filename: debs/me.pulandres.betterjb_1.0_iphoneos-arm.deb
 Size: 78834
@@ -245,7 +245,7 @@ Architecture: iphoneos-arm
 Description: allows you to install sileo from coolstar's repo on unc0ver jailbreak
 Maintainer: Aakash Sardesai
 Author: diatrus
-Section: utilities
+Section: Utilities
 Depends: 
 Filename: debs/us.diatr.sillyo_1.4_iphoneos-arm.deb
 Size: 1280
