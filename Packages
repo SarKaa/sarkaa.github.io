@@ -1528,7 +1528,7 @@ Architecture: iphoneos-arm
 Description: The super mario font for use with A-font
 Maintainer: SarKaa (watking01)
 Author: SarKaa (watking01)
-Section: Utilities
+Section: Themes
 Depends: com.rpgfarm.a-font
 Filename: debs/com.sardesai.supermario256_1.0_iphoneos-arm.deb
 Size: 9322
