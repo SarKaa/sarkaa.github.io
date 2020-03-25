@@ -13,3 +13,19 @@
                     <key>url</key>
                     <string> https://github.com/Watking01/watking01.github.io/releases/download/2.0.0/app.ipa </string>
                 </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.sardesai.SMT-m0d</string>
+                <key>bundle-version</key>
+                <string>2.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>SMT m0d</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
