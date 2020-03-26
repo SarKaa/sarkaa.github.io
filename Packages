@@ -1552,7 +1552,7 @@ SHA1: b854b9bfdbb21be0fb701b8667cd650e13d185d6
 SHA256: b003dd76dd67c1ab3020d61128e4f477f72c7a8b3d0b0ee7bc747b3e28a6ec1d
 
 Package: com.sardesai.SMT-m0d
-Name: Zeppelin
+Name: SMT m0d application
 Version: 2.0.0
 Architecture: iphoneos-arm
 Description: A proper app for SarKaa’a official website
