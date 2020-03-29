@@ -19,15 +19,15 @@
 <key>IsRemovable</key>
 			<false/>
 			<key>Label</key>
-			<string>SMT m0d</string>
+			<string>AS OS</string>
 			<key>PayloadDescription</key>
-			<string>Installs SMT m0d straight from Watking01's server</string>
+			<string>Installs AS OS straight from Watking01's server</string>
 			<key>PayloadDisplayName</key>
-			<string>SMT m0d</string>
+			<string>AS OS</string>
 			<key>PayloadIdentifier</key>
 			<string>>E5E650BE-FE53-431D-9937-73866416DE0D</string>
 			<key>PayloadOrganization</key>
-			<string>Aakash Sardesai</string>
+			<string>SarKaa</string>
 			<key>PayloadType</key>
 	<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -41,13 +41,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Installs SMT m0d straight from SarKaa's server</string>
+	<string>Installs AS OS straight from SarKaa's server</string>
 	<key>PayloadDisplayName</key>
-	<string>SMT m0d</string>
+	<string>AS OS/string>
 	<key>PayloadIdentifier</key>
 	<string>E5E650BE-FE53-431D-9937-73866416DE0D</string>
 	<key>PayloadOrganization</key>
-	<string>Aakash Sardesai</string>
+	<string>SarKaa</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/><!--never set to true with random/unknown uuids/identifiers-->
 	<key>PayloadType</key>
