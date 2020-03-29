@@ -43,7 +43,7 @@
 	<key>PayloadDescription</key>
 	<string>Installs AS OS straight from SarKaa's server</string>
 	<key>PayloadDisplayName</key>
-	<string>AS OS/string>
+	<string>AS OS</string>
 	<key>PayloadIdentifier</key>
 	<string>E5E650BE-FE53-431D-9937-73866416DE0D</string>
 	<key>PayloadOrganization</key>
