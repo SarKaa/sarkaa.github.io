@@ -16,3 +16,5 @@ For updates, add the following repos
 https://julioverne.github.io/
 
 https://dpkg9510.github.io/
+
+https://rejail.ru/
