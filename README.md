@@ -11,7 +11,7 @@ Contact me from the website
 
 If you need any game to be hacked or any tweak, feel free to email me, and I will respond as soon as possible
 
-For updates, add the following repos
+For updates, install the get updates package from the repo, or manually add the following repos
 
 https://julioverne.github.io/
 
