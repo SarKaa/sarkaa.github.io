@@ -28156,7 +28156,7 @@ SHA256: f8929f44385419c50267f6184ebd3cbf155fd0ff075ec2b224264aeec5475222
 
 Package: com.pul.gushicc
 Version: 1.2
-Section: Theme
+Section: Themes (prysm)
 Maintainer: Pulandres
 Depends: com.pul.prysm | com.laughingquoll.prysm, com.julioverne.flipconvert
 Architecture: iphoneos-arm
