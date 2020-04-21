@@ -11,12 +11,11 @@ Contact me from the website
 
 If you need any game to be hacked or any tweak, feel free to email me, and I will respond as soon as possible
 
-For updates, install the get updates package from the repo, or manually add the following repos
 
-https://julioverne.github.io/
+I WILL NOT UPDATE THE PACKAGES MYSELF UNLESS THEY ARE MADE BY ME
 
-https://dpkg9510.github.io/
+To get updates, install the "get updates" package
 
-https://rejail.ru/
+When you add the repo, you will see a package that says it needs to be upgraded, even though it isn't installed.
 
-http://repo.twickd.com/
+This package will add a few repos, and these repos will update the packages, which will automatically update them on my repo
