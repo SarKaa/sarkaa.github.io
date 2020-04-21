@@ -11,10 +11,11 @@ Contact me from the website
 
 If you need any game to be hacked or any tweak, feel free to email me, and I will respond as soon as possible
 
-I WILL NOT UPDATE THE PACKAGES MYSLEF UNLESS THEY ARE MADE BY ME
 
-When you add the repo, you will see a package that says it needs to be upgraded, even though it isn't installed.
+I WILL NOT UPDATE THE PACKAGES MYSELF UNLESS THEY ARE MADE BY ME
 
 To get updates, install the "get updates" package
+
+When you add the repo, you will see a package that says it needs to be upgraded, even though it isn't installed.
 
 This package will add a few repos, and these repos will update the packages, which will automatically update them on my repo
