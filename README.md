@@ -17,4 +17,4 @@ When you add the repo, you will see a package that says it needs to be upgraded,
 
 To get updates, install the "get updates" package
 
-This package will add a few repos, and these repos will update the packages, which will automatically update them on my repo.
+This package will add a few repos, and these repos will update the packages, which will automatically update them on my repo
