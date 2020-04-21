@@ -1,8 +1,10 @@
 Package: com.sarkaa.getupdates
 Name: Get updates
+Essential: yes
+Priority: required
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Get updates for tweaks I’m too lazy to update myself
+Description: Get updates for tweaks I’m too lazy to update myself, this will essentially add a few repos that will update the tweaks, and the tweaks will then automatically be updated on my repo. This is completely non-invasive, and will not affect your user experience in any way
 Maintainer: SarKaa
 Author: SarKaa
 Section: Utilities 
@@ -50,7 +52,7 @@ Architecture: iphoneos-arm
 Description: cheats for guns of boom game
 Maintainer: SarKaa
 Author: Joka
-Section: cheats
+Section: Tweaks (game cheats)
 Depends: 
 Filename: debs/com.Joka.GunsofBoomFreeHack_1.0.0_iphoneos-arm.deb
 Size: 2002586
@@ -80,7 +82,7 @@ Architecture: iphoneos-arm
 Description: cheats for PvZ 2
 Maintainer: SarKaa
 Author: Joka
-Section: cheats
+Section: Tweaks (game cheats)
 Depends: 
 Filename: debs/com.Joka.PvZ2FreeHack_1.0.0_iphoneos-arm%20(2).deb
 Size: 993374
@@ -95,7 +97,7 @@ Architecture: iphoneos-arm
 Description: cheats for rolling sky
 Maintainer: SarKaa
 Author: Joka
-Section: cheats
+Section: Tweaks (game cheats)
 Depends: 
 Filename: debs/com.Joka.RollingSkyFreeHack_2.1.0_iphoneos-arm.deb
 Size: 996492
@@ -110,7 +112,7 @@ Architecture: iphoneos-arm
 Description: cheats for king of thieves
 Maintainer: SarKaa
 Author: Laxus
-Section: cheats
+Section: Tweaks (game cheats)
 Depends: 
 Filename: debs/com.laxus.kingofthieves_2.32.2_iphoneos-arm.deb
 Size: 990890
@@ -200,7 +202,7 @@ Architecture: iphoneos-arm
 Description: cheats for angry birds 2
 Maintainer: SarKaa
 Author: iosgods.com
-Section: cheats
+Section: Tweaks (game cheats)
 Depends: 
 Filename: debs/iOSGods.com.AngryBirds2_2.7.1-2_iphoneos-arm.deb
 Size: 10019762
@@ -215,7 +217,7 @@ Architecture: iphoneos-arm
 Description: cheats for angry birds evolution
 Maintainer: SarKaa
 Author: iosgods.com
-Section: cheats
+Section: Tweaks (game cheats)
 Depends: 
 Filename: debs/iOSGods.com.AngryBirdsEvolution_2.1.3_iphoneos-arm.deb
 Size: 993838
@@ -230,7 +232,7 @@ Architecture: iphoneos-arm
 Description: cheats for PUBG mobile
 Maintainer: SarKaa
 Author: iosgods.com
-Section: cheats
+Section: Tweaks (game cheats)
 Depends: 
 Filename: debs/iOSGods.com.PUBGMOBILEFREE_0.6.1_iphoneos-arm.deb
 Size: 1837218
