@@ -249,11 +249,11 @@ Maintainer: SarKaa
 Author: pulandres
 Section: Tweaks
 Depends: 
-Filename: debs/me.pulandres.betterjb_1.0_iphoneos-arm.deb
+Filename: debs/com.pulandres.betterjb_1.0.deb
 Size: 78834
-MD5sum: 0e49eea1e1a7e9c5a3219afa9a4eca62
-SHA1: 36a1aad4e902976400914edb7c8a4bda7a196cd9
-SHA256: 0578608155072412b7958679955aba19567bd8abe5689faf56e459b4c1850017
+MD5sum: F83313D02CDEA3D48BC2E16D3C92D8E0
+SHA1: C198E15A2CF85C732FD67E933F5369F363FFF18C
+SHA256: 138BFE819DCA9F4A2B0ED9F82DFCC914CFC0041C5C67571B77BA34C6D36D607C
 
 Package: us.diatr.sillyo
 Name: sileo compatablity layer
