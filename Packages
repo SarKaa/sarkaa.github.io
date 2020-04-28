@@ -36587,3 +36587,33 @@ Description: Unloads Webbookmarksd whenever you’re jailbroken.
 Name: unloadWbd
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadwbd
+
+Package: com.sarkaa.asos
+Name: AS Os app
+Version: 3.0.0
+Architecture: iphoneos-arm
+Description: An official app for SarKaa
+Maintainer: SarKaa
+Author: SarKaa
+Section: Utilities 
+Depends: 
+Filename: debs/com.sarkaa.asos_3.0.0_iphoneos-arm.deb
+Size: 33379116
+MD5sum: f09963cca8cbdd3f71199b2ac283432e
+SHA1: c1ee5e2c6658d2a71b4ca763e65dbca151f881c4
+SHA256: 86cb2f5bda42c8e70a9192046ab77fa86d6afaa730b6c47b0ce519cd76eff220
+
+Package: com.sarkaa.asos
+Name: AS OS web-app
+Version: 3.0.0
+Architecture: iphoneos-arm
+Description: An official web app for SarKaa
+Maintainer: SarKaa
+Author: SarKaa
+Section: Utilities 
+Depends: 
+Filename: debs/com.sardesai.ASOS-web_2.0_iphoneos-arm.deb
+Size: 304724
+MD5sum: ee281aee36bde51aaa279aad6b8d3d28
+SHA1: 5cad2fb2593599b798f65bd51013a01486133cb7
+SHA256: a8ac1a6529ff42cdef78ae95eeda6ef5cc9c3c3185398ebd3f1b06adc872382b
