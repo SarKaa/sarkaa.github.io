@@ -14,8 +14,13 @@ If you need any game to be hacked or any tweak, feel free to email me, and I wil
 
 I WILL NOT UPDATE THE PACKAGES MYSELF UNLESS THEY ARE MADE BY ME
 
-To get updates, install the "get updates" package
+To get updates: add the following repos:
 
-When you add the repo, you will see a package that says it needs to be upgraded, even though it isn't installed.
+https://apt.bingner.com/
 
-This package will add a few repos, and these repos will update the packages, which will automatically update them on my repo
+https://dpkg9510.github.io/
+
+http://julioverne.github.io/
+
+https://rejail.ru/
+
