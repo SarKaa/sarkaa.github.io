@@ -1,20 +1,3 @@
-Package: com.sarkaa.getupdates
-Name: Get updates
-Essential: yes
-Priority: required
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Get updates for tweaks I’m too lazy to update myself, this will essentially add a few repos that will update the tweaks, and the tweaks will then automatically be updated on my repo. This is completely non-invasive, and will not affect your user experience in any way
-Maintainer: SarKaa
-Author: SarKaa
-Section: Utilities 
-Depends: 
-Filename: debs/com.sarkaa.getupdates_1.0_iphoneos-arm.deb
-Size: 836
-MD5sum: 48e9f17dffef5c1ef5e7638e7150a8c0
-SHA1: 5e711de916aefe52aca9d42c311e4acc159af749
-SHA256: ce6f251ab4c1bb9725be7af6ce1e879efb69c22eb9095a93763bcbf5e0c920ea
-
 Package: com.alexzielenski.zeppelin
 Name: Zeppelin
 Version: 2.1.0-12
