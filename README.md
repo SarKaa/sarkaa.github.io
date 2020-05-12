@@ -3,6 +3,8 @@ SarKaa's personal repo.
 
 Game cheats by iosgods.com.
 
+Most advanced packages have been taken from undecimus resources, so only install these if you know what your doing, but most should be fine to use on all jailbreaks
+
 I do not take any responsibility for crashes or problems by tweaks.
 
 I do not make the tweaks myself, they are simply taken from other repositories.
