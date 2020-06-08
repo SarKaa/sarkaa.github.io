@@ -16151,7 +16151,7 @@ Version: 1.0.0
 Section: Utilities
 Maintainer: SarKaa
 Depends: libactivator, com.giorgioiavicoli.passby
-Filename: ./debs/com.sarkaa.nimbus_1.0_all.deb
+Filename: debs/com.sarkaa.nimbus_1.0_all.deb
 Size: 1740
 MD5sum: 43163AD3637A6F09C70FFC9490813C6E
 SHA1: 966B6294E0CE0525DBA486C838F10C23EE14F215
