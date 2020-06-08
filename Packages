@@ -16145,3 +16145,18 @@ Description: Disable tweak injection (Substrate/Substitute) in certain apps.
 Name: UnSub
 Author: Nepeta
 
+Package: com.sarkaa.nimbus
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Utilities
+Maintainer: SarKaa
+Depends: libactivator, com.giorgioiavicoli.passby
+Filename: ./debs/com.sarkaa.nimbus_1.0_all.deb
+Size: 1740
+MD5sum: 43163AD3637A6F09C70FFC9490813C6E
+SHA1: 966B6294E0CE0525DBA486C838F10C23EE14F215
+SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
+SHA512: DB821BCD3BA81F87B54175F7583D2D28F0C79C504F7B26FD4F633B1710D19994
+Description: Allows you to control your device over ssh by simply using the command "nimbus"
+Name: Nimbus
+Author: SarKaa
