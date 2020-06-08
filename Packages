@@ -43,21 +43,6 @@ MD5sum: bac9dab516c7abd8d9c609e6c4634998
 SHA1: 5d8a3ba00594ade971ddfd8783fc549f7841ea0c
 SHA256: 7f3051d7537044570fb6153388e94f73f7e68e782aa1e1c34d1c5cc0cd9736f3
 
-Package: com.Joka.iOSGodsiAPCracker
-Name: Ios gods iAP cracker
-Version: 1.0-2
-Architecture: iphoneos-arm
-Description: pwns in app purchases better than localiapstore
-Maintainer: SarKaa
-Author: Joka
-Section: Tweaks
-Depends: 
-Filename: debs/com.Joka.iOSGodsiAPCracker_1.0-2_iphoneos-arm.deb
-Size: 62488
-MD5sum: 4932c5023d5f9242eebb877861b52f10
-SHA1: fe848ff312489469384320ef8dc74204e499b662
-SHA256: febcb129b2e17c0a60b35cb87e31f23a8eef8a5179da5fc7dd2448d81afa128e
-
 Package: com.Joka.PvZ2FreeHack
 Name: PvZ 2 cheats
 Version: 1.0
@@ -16156,7 +16141,6 @@ Size: 1740
 MD5sum: 43163AD3637A6F09C70FFC9490813C6E
 SHA1: 966B6294E0CE0525DBA486C838F10C23EE14F215
 SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
-SHA512: DB821BCD3BA81F87B54175F7583D2D28F0C79C504F7B26FD4F633B1710D19994
 Description: Allows you to control your device over ssh by simply using the command "nimbus"
 Name: Nimbus
 Author: SarKaa
@@ -16172,7 +16156,21 @@ Size: 1734
 MD5sum: 506758CC264AC8CA58FEA8B17589CF33
 SHA1: E436346F348997E84D4203520F261B298E196478
 SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
-SHA512: 8E88706E9B2C151C72F90631FBB1891E80A87E2B3840D24018495B7465D0AED3
+Description: Allows you to control your device over ssh by simply using the command "nimbus"
+Name: Nimbus
+Author: SarKaa
+
+Package: com.sarkaa.nimbus
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Utilities
+Maintainer: SarKaa
+Depends: libactivator, com.giorgioiavicoli.passby
+Filename: debs/com.sarkaa.nimbus_1.2_all.deb
+Size: 1736
+MD5sum: 645FCF341D51BDD0F501C47C4F4AA80D
+SHA1: 71A5BD607919EAD5C1BE2C7CA4A05F5928C2711F
+SHA256: 78A3495B03F68804E2E0B5A4F1B0DBBA31755E97B374C5281582599D879F77BD
 Description: Allows you to control your device over ssh by simply using the command "nimbus"
 Name: Nimbus
 Author: SarKaa
