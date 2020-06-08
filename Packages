@@ -16147,7 +16147,7 @@ Author: Nepeta
 
 Package: com.sarkaa.nimbus
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0
 Section: Utilities
 Maintainer: SarKaa
 Depends: libactivator, com.giorgioiavicoli.passby
