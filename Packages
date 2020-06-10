@@ -16174,3 +16174,33 @@ SHA256: 78A3495B03F68804E2E0B5A4F1B0DBBA31755E97B374C5281582599D879F77BD
 Description: Allows you to control your device over ssh by simply using the command "nimbus"
 Name: Nimbus
 Author: SarKaa
+
+Package: com.rileytestut.altstore.alpha.jailbroken
+Section: Tweaks
+Maintainer: SarKaa
+Depends: firmware (>=12.2), com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.4a4
+Filename: debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
+Size: 3124474
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore (ALPHA)
+Author: Riley Testut
+MD5sum: e9824193c0d561e1617a70fb0529dc4a
+SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
+SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
+
+Package: com.rileytestut.altdaemon
+Section: System
+Maintainer: SarKaa
+Depends: firmware (>=12.2)
+Architecture: iphoneos-arm
+Version: 0.1
+Filename: debs/AltDaemon.deb
+Size: 873258
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDaemon
+Author: Riley Testut
+MD5sum: 1bbb0546d88a0011cf1311acc66afca4
+SHA1: 76a657be16ab1f7ee56dfa5297e6c21cc43f46df
+SHA256: fbf46faaeb7a3ee3d9d6c1071394a12bb0ccb1832213440ce5c5a9347c9950b6
