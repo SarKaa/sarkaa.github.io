@@ -24,5 +24,3 @@ https://dpkg9510.github.io/
 
 http://julioverne.github.io/
 
-https://rejail.ru/
-
