@@ -63,7 +63,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 136
-Depends: mobilesubstrate
+Depends: mobilesubstrate, jp.akusio.milkyway2
 Filename: debs/com.brend0n.milkyway2-ios14fix_0.0.1_iphoneos-arm.deb
 Size: 2900
 MD5sum: 7cf811d96b30d32d5899ac33f3cb4a12
@@ -91,3 +91,19 @@ MD5sum: 074af4bda04325f94a7e9a232ca0e71c
 SHA1: 22a03d6c168106830af716d88265fb0859001839
 SHA256: 84bfb7fd51a2cb2d5245e68543504e0a082c29b26086b96bca20e50ec1ff5042
 Name: Backgrounderaction13 
+
+Package: jp.akusio.milkyway2
+Section: Tweaks
+Installed-Size: 376
+Maintainer: SarKaa <sarkaa146@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.2.0-alpha
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Description: multitasking for iOS13. It also works on iOS 14 if you have the fix
+Name: MilkyWay2
+Author: akusio <akusio-report@neko2.net>
+Filename: debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 68702
+MD5sum: 3e8d352c02056c76b93bae08ea7bfc15
+SHA1: 5da9c2fad79921e17f3e69434e6aab33d296345c
+SHA256: d3430f983e23b0dba7fdd2950ff9bf0cc73f4ad1657e615a13358ebdd0fa6547
