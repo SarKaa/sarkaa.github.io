@@ -73,3 +73,21 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Brend0n <brendonjkding@126.com>
 Name: MilkyWay2-iOS14Fix
+
+Package: jp.akusio.backgrounderaction13
+Section: Tweaks
+Installed-Size: 244
+Maintainer: SarKaa <sarkaa146@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1.4
+Depends: mobilesubstrate, com.opa334.ccsupport
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction2 for CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Author: akusio <akusio-report@neko2.net>
+Filename: debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 16124
+MD5sum: 074af4bda04325f94a7e9a232ca0e71c
+SHA1: 22a03d6c168106830af716d88265fb0859001839
+SHA256: 84bfb7fd51a2cb2d5245e68543504e0a082c29b26086b96bca20e50ec1ff5042
+Name: Backgrounderaction13 
