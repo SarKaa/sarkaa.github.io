@@ -57,3 +57,19 @@ Author: Riley Testut
 MD5sum: 1bbb0546d88a0011cf1311acc66afca4
 SHA1: 76a657be16ab1f7ee56dfa5297e6c21cc43f46df
 SHA256: fbf46faaeb7a3ee3d9d6c1071394a12bb0ccb1832213440ce5c5a9347c9950b6
+
+Package: com.brend0n.milkyway2-ios14fix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.brend0n.milkyway2-ios14fix_0.0.1_iphoneos-arm.deb
+Size: 2900
+MD5sum: 7cf811d96b30d32d5899ac33f3cb4a12
+SHA1: f93c7f1e119fbd38a10c67e7dee6e396f130dc2f
+SHA256: 08daf493d052fa13b3329535998ec17a95be473a207fef1cc3506f576df71735
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Brend0n <brendonjkding@126.com>
+Name: MilkyWay2-iOS14Fix
