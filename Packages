@@ -107,3 +107,18 @@ Size: 68702
 MD5sum: 3e8d352c02056c76b93bae08ea7bfc15
 SHA1: 5da9c2fad79921e17f3e69434e6aab33d296345c
 SHA256: d3430f983e23b0dba7fdd2950ff9bf0cc73f4ad1657e615a13358ebdd0fa6547
+
+Package: com.sarkaa.nimbus
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Utilities
+Maintainer: SarKaa
+Depends: libactivator, com.giorgioiavicoli.passby
+Filename: debs/com.sarkaa.nimbus_2.1_all.deb
+Size: 2046
+MD5sum: cce0541a76b801ffff7c916007fad742
+SHA1: 94341b4aae5fe67103b976f507decedb05c0fce7
+SHA256: f036946cb8a1945dee242183656149d180160dbf38aa3e6375f29744739b9a45
+Description: Allows you to control your device over ssh by simply using the command "nimbus"
+Name: Nimbus
+Author: SarKaa
